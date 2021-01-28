@@ -1,0 +1,14 @@
+{
+  "name": "my-project-git",
+  "version": "1.0.0",
+  "description": "this is a demo project for git/github crash course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CodeJ",
+  "license": "ISC",
+  "dependencies": {
+    "react-rapid-carousel": "^2.0.0"
+  }
+}
